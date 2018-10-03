@@ -9,6 +9,7 @@ monikerRange: "exchonline-ps"
 # Get-AuthenticationPolicy
 
 ## SYNOPSIS
+
 > [!NOTE]
 > This topic describes a preview feature that isn't available to everyone, and is subject to change.
 
